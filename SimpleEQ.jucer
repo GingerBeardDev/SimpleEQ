@@ -4,7 +4,7 @@
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="Nuwa Digital Studios"
               companyWebsite="http://www.nuwa.ie/" pluginAUMainType="'aumf'"
               pluginVST3Category="EQ" pluginRTASCategory="1" pluginAAXCategory="1"
-              pluginFormats="buildAAX,buildAU,buildVST3">
+              pluginFormats="buildAAX,buildAU,buildVST3" cppLanguageStandard="17">
   <MAINGROUP id="E2SAWS" name="SimpleEQ">
     <GROUP id="{5E9E7D87-23F0-7F16-F3FD-9EA6674507E5}" name="Source">
       <FILE id="PYjHzF" name="PluginProcessor.cpp" compile="1" resource="0"
